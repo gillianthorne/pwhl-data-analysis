@@ -1,333 +1,333 @@
-,shooter_id,goalie_id,game_id,period,time,is_goal,x_location,y_location,type,quality
-0,44,64,2,1,0 days 10:43:00,1,456,63,Wrist,Non quality goal
-1,34,64,2,3,0 days 02:53:00,1,486,68,Default,Non quality goal
-2,149,64,2,3,0 days 04:57:00,1,550,136,Default,Quality goal
-3,45,64,2,3,0 days 07:42:00,1,544,159,Default,Quality goal
-4,61,28,3,2,0 days 16:24:00,1,115,232,Slap,Non quality goal
-5,26,59,3,2,0 days 17:45:00,1,507,111,Wrist,Quality goal
-6,88,28,3,3,0 days 05:18:00,1,441,243,Wrist,Non quality goal
-7,32,59,3,3,0 days 14:23:00,1,66,103,Wrist,Non quality goal
-8,80,59,3,4,0 days 01:04:00,1,491,113,Wrist,Quality goal
-9,21,6,4,1,0 days 03:58:00,1,518,189,Default,Quality goal
-10,103,6,4,1,0 days 07:54:00,1,503,165,Default,Quality goal
-11,17,22,4,2,0 days 07:59:00,1,108,159,Default,Quality goal
-12,25,6,4,2,0 days 08:54:00,1,466,135,Default,Quality goal
-13,12,22,4,3,0 days 17:20:00,1,163,141,Default,Non quality goal
-14,42,64,5,1,0 days 03:58:00,1,53,171,Default,Quality goal
-15,100,41,5,2,0 days 00:38:00,1,535,154,Default,Quality goal
-16,101,41,5,2,0 days 04:57:00,1,520,139,Default,Quality goal
-17,34,64,5,2,0 days 17:28:00,1,153,162,Default,Non quality goal
-18,73,41,5,3,0 days 06:34:00,1,535,176,Default,Quality goal
-19,25,28,6,1,0 days 17:21:00,1,42,171,Backhand,Non quality goal
-20,25,28,6,3,0 days 01:47:00,1,212,151,Default,Non quality goal
-21,25,28,6,3,0 days 17:13:00,1,396,102,Wrist,Non quality goal
-22,21,64,8,1,0 days 18:00:00,1,54,155,Wrist,Quality goal
-23,75,22,8,2,0 days 03:43:00,1,514,163,Default,Quality goal
-24,21,64,8,2,0 days 11:11:00,1,58,141,Wrist,Quality goal
-25,20,64,8,3,0 days 08:43:00,1,62,159,Snap,Quality goal
-26,36,85,9,1,0 days 06:08:00,1,475,205,Default,Quality goal
-27,31,155,9,1,0 days 08:14:00,1,115,190,Default,Quality goal
-28,44,85,9,3,0 days 00:26:00,1,203,39,Wrist,Non quality goal
-29,29,155,9,3,0 days 04:58:00,1,440,154,Default,Non quality goal
-30,31,155,9,3,0 days 06:03:00,1,529,183,Backhand,Quality goal
-31,31,155,9,3,0 days 18:53:00,1,213,21,Default,Non quality goal
-32,88,64,10,1,0 days 09:29:00,1,538,153,Default,Quality goal
-33,57,64,10,1,0 days 10:17:00,1,550,188,Default,Non quality goal
-34,63,64,10,1,0 days 19:44:00,1,506,216,Default,Quality goal
-35,100,59,10,2,0 days 01:38:00,1,59,159,Default,Quality goal
-36,142,70,10,2,0 days 05:40:00,1,525,189,Default,Quality goal
-37,57,70,10,3,0 days 11:34:00,1,543,191,Default,Non quality goal
-38,83,6,11,2,0 days 00:33:00,1,170,67,Wrist,Non quality goal
-39,32,6,11,2,0 days 01:02:00,1,88,148,Wrist,Quality goal
-40,9,28,11,2,0 days 04:15:00,1,526,143,Wrist,Quality goal
-41,1,28,11,2,0 days 05:46:00,1,541,148,Backhand,Quality goal
-42,110,28,11,4,0 days 02:17:00,1,549,120,Default,Non quality goal
-43,24,155,12,1,0 days 07:14:00,1,205,238,Wrist,Non quality goal
-44,23,155,12,1,0 days 11:22:00,1,111,139,Wrist,Quality goal
-45,34,123,12,2,0 days 14:23:00,1,552,166,Default,Quality goal
-46,36,123,12,3,0 days 10:49:00,1,551,147,Default,Quality goal
-47,86,123,12,4,0 days 04:01:00,1,485,190,Wrist,Quality goal
-48,156,41,13,1,0 days 16:50:00,1,81,133,Default,Quality goal
-49,159,41,13,1,0 days 17:07:00,1,212,145,Default,Non quality goal
-50,87,28,13,2,0 days 08:14:00,1,390,131,Default,Non quality goal
-51,36,28,13,3,0 days 00:11:00,1,466,66,Default,Non quality goal
-52,31,41,13,3,0 days 13:46:00,1,81,140,Backhand,Quality goal
-53,89,19,14,1,0 days 09:00:00,1,64,134,Default,Quality goal
-54,8,64,14,2,0 days 12:38:00,1,522,186,Default,Quality goal
-55,12,64,14,2,0 days 18:38:00,1,467,185,Default,Quality goal
-56,89,19,14,3,0 days 07:45:00,1,55,148,Default,Quality goal
-57,8,64,14,3,0 days 18:10:00,1,527,195,Default,Quality goal
-58,56,22,15,1,0 days 03:41:00,1,93,218,Snap,Quality goal
-59,49,22,15,1,0 days 10:55:00,1,51,162,Wrist,Quality goal
-60,78,59,15,2,0 days 03:21:00,1,431,53,Snap,Non quality goal
-61,25,59,15,2,0 days 11:20:00,1,554,100,Snap,Non quality goal
-62,78,59,15,4,0 days 01:57:00,1,506,250,Snap,Non quality goal
-63,35,19,16,1,0 days 17:12:00,1,421,91,Default,Non quality goal
-64,36,19,16,2,0 days 00:26:00,1,459,153,Default,Quality goal
-65,35,19,16,2,0 days 02:04:00,1,494,153,Default,Quality goal
-66,8,155,16,3,0 days 01:12:00,1,83,166,Default,Quality goal
-67,35,6,16,3,0 days 17:07:00,1,346,168,Default,Non quality goal
-68,81,64,17,1,0 days 11:21:00,1,75,134,Wrist,Quality goal
-69,71,28,17,2,0 days 03:01:00,1,533,107,Wrist,Quality goal
-70,31,64,17,2,0 days 08:20:00,1,67,154,Snap,Quality goal
-71,66,28,17,3,0 days 02:32:00,1,446,144,Default,Non quality goal
-72,100,28,17,3,0 days 18:36:00,1,542,153,Tip,Quality goal
-73,31,64,17,3,0 days 19:42:00,1,58,149,Wrist,Quality goal
-74,53,70,18,1,0 days 05:00:00,1,27,241,Snap,Non quality goal
-75,69,59,18,1,0 days 11:08:00,1,465,191,Snap,Quality goal
-76,58,70,18,1,0 days 12:00:00,1,104,173,Snap,Quality goal
-77,49,70,18,3,0 days 19:17:00,1,584,94,Snap,Non quality goal
-78,15,48,19,1,0 days 08:38:00,1,478,121,Snap,Quality goal
-79,16,48,19,1,0 days 17:37:00,1,555,123,Snap,Non quality goal
-80,54,6,19,2,0 days 15:34:00,1,45,136,Default,Quality goal
-81,49,6,19,3,0 days 03:46:00,1,63,145,Wrist,Quality goal
-82,17,59,19,3,0 days 19:08:00,1,553,182,Backhand,Non quality goal
-83,32,22,20,1,0 days 04:12:00,1,443,225,Wrist,Non quality goal
-84,115,85,20,2,0 days 11:51:00,1,51,150,Wrist,Quality goal
-85,161,22,20,3,0 days 13:54:00,1,540,147,Default,Quality goal
-86,100,155,21,2,0 days 16:31:00,1,54,128,Default,Quality goal
-87,100,155,21,3,0 days 13:16:00,1,33,169,Default,Non quality goal
-88,32,59,22,1,0 days 13:37:00,1,38,178,Wrist,Non quality goal
-89,61,28,22,3,0 days 06:10:00,1,503,195,Snap,Quality goal
-90,98,59,22,4,0 days 03:30:00,1,68,157,Wrist,Quality goal
-91,7,123,23,1,0 days 05:35:00,1,202,242,Default,Non quality goal
-92,105,19,23,1,0 days 13:07:00,1,87,131,Default,Quality goal
-93,15,123,23,1,0 days 14:27:00,1,513,157,Default,Quality goal
-94,25,19,23,2,0 days 19:22:00,1,506,98,Default,Quality goal
-95,20,19,23,3,0 days 19:07:00,1,532,176,Default,Quality goal
-96,13,123,23,4,0 days 00:52:00,1,473,111,Default,Quality goal
-97,117,41,24,1,0 days 15:47:00,1,416,174,Default,Non quality goal
-98,44,22,24,3,0 days 00:23:00,1,53,123,Default,Quality goal
-99,100,22,25,1,0 days 19:06:00,1,48,141,Default,Quality goal
-100,76,22,25,3,0 days 11:24:00,1,56,160,Default,Quality goal
-101,100,22,25,3,0 days 11:40:00,1,59,129,Default,Quality goal
-102,62,155,26,1,0 days 07:37:00,1,201,81,Snap,Non quality goal
-103,49,155,26,3,0 days 02:20:00,1,66,175,Snap,Quality goal
-104,56,155,26,3,0 days 09:13:00,1,182,141,Snap,Non quality goal
-105,42,59,26,3,0 days 14:54:00,1,491,201,Snap,Quality goal
-106,35,59,26,3,0 days 15:38:00,1,553,113,Wrist,Non quality goal
-107,34,59,26,3,0 days 16:33:00,1,521,159,Snap,Quality goal
-108,34,59,26,4,0 days 02:12:00,1,489,225,Snap,Quality goal
-109,83,6,27,1,0 days 15:59:00,1,501,182,Default,Quality goal
-110,18,85,27,3,0 days 04:12:00,1,125,153,Default,Quality goal
-111,32,6,27,4,0 days 02:36:00,1,507,165,Default,Quality goal
-112,51,123,28,1,0 days 05:29:00,1,459,194,Wrist,Quality goal
-113,114,59,28,2,0 days 02:35:00,1,43,165,Backhand,Quality goal
-114,79,59,28,3,0 days 03:35:00,1,213,279,Slap,Non quality goal
-115,75,19,29,1,0 days 14:13:00,1,476,177,Default,Quality goal
-116,100,19,29,2,0 days 11:49:00,1,512,168,Default,Quality goal
-117,16,64,29,3,0 days 06:04:00,1,111,128,Default,Quality goal
-118,68,19,29,3,0 days 07:28:00,1,447,165,Default,Non quality goal
-119,1,64,29,3,0 days 08:25:00,1,83,191,Default,Quality goal
-120,100,19,29,3,0 days 17:32:00,1,523,181,Default,Quality goal
-121,9,64,29,3,0 days 18:32:00,1,177,224,Default,Non quality goal
-122,65,28,30,3,0 days 05:11:00,1,66,165,Default,Quality goal
-123,89,28,30,3,0 days 15:21:00,1,119,174,Default,Quality goal
-124,125,28,30,3,0 days 15:53:00,1,227,142,Default,Non quality goal
-125,103,59,31,1,0 days 18:33:00,1,543,174,Wrist,Quality goal
-126,53,22,31,2,0 days 10:04:00,1,45,173,Snap,Non quality goal
-127,25,59,31,2,0 days 19:41:00,1,529,183,Snap,Quality goal
-128,86,6,32,1,0 days 14:59:00,1,526,158,Default,Quality goal
-129,12,155,32,3,0 days 18:56:00,1,179,211,Default,Non quality goal
-130,34,6,32,4,0 days 02:28:00,1,490,115,Default,Quality goal
-131,26,123,33,1,0 days 03:41:00,1,52,154,Tip,Quality goal
-132,20,85,33,1,0 days 17:42:00,1,537,154,Backhand,Quality goal
-133,8,59,34,1,0 days 07:35:00,1,160,96,Default,Non quality goal
-134,88,6,34,1,0 days 16:35:00,1,554,143,Default,Quality goal
-135,78,59,34,2,0 days 00:45:00,1,200,234,Default,Non quality goal
-136,13,59,34,3,0 days 13:49:00,1,99,198,Default,Quality goal
-137,34,28,35,1,0 days 02:43:00,1,99,207,Wrist,Quality goal
-138,34,28,35,1,0 days 18:47:00,1,88,147,Wrist,Quality goal
-139,32,41,35,2,0 days 16:04:00,1,483,245,Wrist,Non quality goal
-140,98,41,35,3,0 days 08:29:00,1,494,108,Wrist,Quality goal
-141,73,155,36,3,0 days 12:34:00,1,85,126,Default,Quality goal
-142,44,64,36,3,0 days 19:52:00,1,543,159,Default,Quality goal
-143,161,59,37,1,0 days 09:12:00,1,93,114,Default,Quality goal
-144,141,28,37,1,0 days 10:45:00,1,543,153,Backhand,Quality goal
-145,26,59,37,2,0 days 18:12:00,1,54,147,Backhand,Quality goal
-146,80,59,37,3,0 days 02:10:00,1,114,153,Default,Quality goal
-147,63,28,37,3,0 days 04:32:00,1,560,127,Backhand,Non quality goal
-148,26,59,37,3,0 days 08:30:00,1,94,157,Tip,Quality goal
-149,88,28,37,3,0 days 13:33:00,1,547,195,Wrist,Non quality goal
-150,26,59,37,3,0 days 15:25:00,1,99,91,Wrist,Quality goal
-151,98,59,37,3,0 days 16:44:00,1,143,87,Wrist,Quality goal
-152,17,22,38,2,0 days 08:39:00,1,60,154,Backhand,Quality goal
-153,109,22,38,3,0 days 19:52:00,1,396,196,Wrist,Non quality goal
-154,56,41,39,1,0 days 02:30:00,1,48,134,Snap,Quality goal
-155,137,41,39,2,0 days 10:12:00,1,88,178,Snap,Quality goal
-156,33,59,39,2,0 days 10:50:00,1,521,168,Snap,Quality goal
-157,87,59,39,3,0 days 09:28:00,1,491,165,Snap,Quality goal
-158,57,41,39,3,0 days 15:54:00,1,51,129,Backhand,Quality goal
-159,49,41,39,3,0 days 19:56:00,1,385,153,Snap,Non quality goal
-160,76,22,40,1,0 days 05:45:00,1,505,144,Default,Quality goal
-161,11,64,40,1,0 days 07:37:00,1,100,75,Backhand,Quality goal
-162,68,22,40,2,0 days 02:01:00,1,166,155,Slap,Non quality goal
-163,90,64,40,2,0 days 11:32:00,1,394,218,Wrist,Non quality goal
-164,75,22,40,3,0 days 15:00:00,1,544,176,Snap,Quality goal
-165,11,64,40,3,0 days 19:38:00,1,188,193,Slap,Non quality goal
-166,75,22,40,4,0 days 03:46:00,1,130,62,Slap,Non quality goal
-167,100,59,41,1,0 days 12:53:00,1,534,148,Snap,Quality goal
-168,69,59,41,2,0 days 02:46:00,1,504,171,Snap,Quality goal
-169,89,59,41,2,0 days 04:43:00,1,553,145,Snap,Quality goal
-170,126,48,41,2,0 days 05:14:00,1,477,146,Snap,Quality goal
-171,57,64,41,2,0 days 11:16:00,1,38,165,Backhand,Non quality goal
-172,50,64,41,3,0 days 05:49:00,1,76,149,Backhand,Quality goal
-173,66,48,41,3,0 days 18:27:00,1,412,257,Default,Non quality goal
-174,168,6,42,2,0 days 04:50:00,1,57,105,Wrist,Non quality goal
-175,13,85,42,2,0 days 14:55:00,1,470,117,Wrist,Quality goal
-176,83,6,42,3,0 days 02:29:00,1,196,61,Wrist,Non quality goal
-177,23,155,43,2,0 days 01:33:00,1,535,166,Wrist,Quality goal
-178,114,155,43,2,0 days 03:55:00,1,476,195,Wrist,Quality goal
-179,114,48,44,1,0 days 07:23:00,1,52,176,Wrist,Quality goal
-180,104,48,44,1,0 days 11:22:00,1,66,184,Wrist,Quality goal
-181,61,123,44,1,0 days 12:41:00,1,495,154,Wrist,Quality goal
-182,88,123,44,1,0 days 15:26:00,1,503,176,Wrist,Quality goal
-183,88,123,44,2,0 days 00:52:00,1,524,137,Wrist,Quality goal
-184,104,48,44,3,0 days 08:51:00,1,136,125,Wrist,Quality goal
-185,74,6,45,1,0 days 03:25:00,1,80,147,Default,Quality goal
-186,100,6,45,1,0 days 17:37:00,1,103,209,Default,Quality goal
-187,66,6,45,2,0 days 16:34:00,1,181,181,Default,Non quality goal
-188,10,64,45,3,0 days 14:25:00,1,399,135,Default,Non quality goal
-189,27,155,46,1,0 days 05:30:00,1,493,135,Default,Quality goal
-190,81,155,46,1,0 days 11:03:00,1,515,171,Default,Quality goal
-191,156,155,46,1,0 days 15:37:00,1,524,104,Default,Quality goal
-192,36,28,46,1,0 days 16:49:00,1,61,180,Default,Quality goal
-193,42,28,46,2,0 days 14:28:00,1,95,123,Default,Quality goal
-194,31,155,46,3,0 days 04:23:00,1,524,186,Default,Quality goal
-195,36,28,46,3,0 days 08:06:00,1,67,169,Default,Quality goal
-196,72,85,47,3,0 days 03:47:00,1,162,51,Default,Non quality goal
-197,73,85,47,3,0 days 18:54:00,1,98,136,Default,Quality goal
-198,1,41,48,1,0 days 03:57:00,1,29,235,Default,Non quality goal
-199,37,19,48,2,0 days 16:21:00,1,549,187,Default,Non quality goal
-200,87,19,48,2,0 days 18:28:00,1,387,275,Default,Non quality goal
-201,18,41,48,3,0 days 05:22:00,1,98,169,Default,Quality goal
-202,1,41,48,4,0 days 01:48:00,1,51,142,Default,Quality goal
-203,58,28,49,1,0 days 19:23:00,1,522,199,Default,Quality goal
-204,63,28,49,2,0 days 13:15:00,1,471,104,Default,Quality goal
-205,32,59,49,3,0 days 11:10:00,1,179,232,Default,Non quality goal
-206,62,28,49,3,0 days 13:24:00,1,393,190,Wrist,Non quality goal
-207,168,59,49,3,0 days 17:02:00,1,84,133,Backhand,Quality goal
-208,57,28,49,3,0 days 18:55:00,1,513,181,Default,Quality goal
-209,20,6,50,1,0 days 18:12:00,1,79,177,Wrist,Quality goal
-210,115,6,50,2,0 days 06:43:00,1,49,131,Wrist,Quality goal
-211,25,6,50,3,0 days 14:43:00,1,113,281,Slap,Non quality goal
-212,21,6,50,3,0 days 17:57:00,1,466,127,Wrist,Quality goal
-213,115,155,51,1,0 days 08:32:00,1,107,177,Snap,Quality goal
-214,25,155,51,1,0 days 09:35:00,1,205,75,Wrist,Non quality goal
-215,102,155,51,2,0 days 09:13:00,1,62,156,Tip,Quality goal
-216,42,123,51,2,0 days 18:20:00,1,529,142,Tip,Quality goal
-217,115,155,51,3,0 days 08:49:00,1,75,105,Wrist,Quality goal
-218,20,155,51,3,0 days 09:05:00,1,80,148,Wrist,Quality goal
-219,167,70,52,1,0 days 11:21:00,1,489,109,Default,Quality goal
-220,67,19,52,3,0 days 02:14:00,1,141,167,Default,Quality goal
-221,100,19,52,3,0 days 07:05:00,1,114,143,Default,Quality goal
-222,63,41,53,1,0 days 17:31:00,1,531,95,Default,Non quality goal
-223,58,41,53,3,0 days 17:23:00,1,508,157,Default,Quality goal
-224,100,59,54,2,0 days 08:56:00,1,462,159,Snap,Quality goal
-225,100,59,54,2,0 days 12:07:00,1,533,177,Snap,Quality goal
-226,63,64,54,2,0 days 19:55:00,1,90,137,Snap,Quality goal
-227,61,64,54,3,0 days 00:38:00,1,43,133,Snap,Quality goal
-228,58,64,54,3,0 days 08:24:00,1,54,131,Tip,Quality goal
-229,63,64,54,3,0 days 14:58:00,1,79,106,Snap,Quality goal
-230,75,59,54,3,0 days 16:21:00,1,579,53,Snap,Non quality goal
-231,63,64,54,3,0 days 18:32:00,1,216,143,Snap,Non quality goal
-232,84,22,55,1,0 days 02:36:00,1,526,158,Wrist,Quality goal
-233,98,22,55,1,0 days 05:53:00,1,535,163,Wrist,Quality goal
-234,90,85,55,2,0 days 05:40:00,1,222,186,Wrist,Non quality goal
-235,24,85,55,2,0 days 06:04:00,1,135,212,Wrist,Quality goal
-236,35,6,56,2,0 days 02:12:00,1,61,151,Tip,Quality goal
-237,37,6,56,2,0 days 05:29:00,1,58,175,Tip,Quality goal
-238,15,155,56,2,0 days 06:27:00,1,549,100,Wrist,Non quality goal
-239,35,6,56,3,0 days 07:14:00,1,49,172,Tip,Quality goal
-240,18,155,56,3,0 days 10:15:00,1,490,128,Wrist,Quality goal
-241,2,64,57,2,0 days 14:28:00,1,142,132,Default,Quality goal
-242,78,64,57,2,0 days 17:45:00,1,150,249,Default,Non quality goal
-243,67,6,57,3,0 days 09:03:00,1,513,216,Default,Non quality goal
-244,30,123,58,1,0 days 07:22:00,1,57,134,Wrist,Quality goal
-245,31,123,58,1,0 days 17:52:00,1,92,182,Wrist,Quality goal
-246,25,85,58,2,0 days 04:59:00,1,465,46,Slap,Non quality goal
-247,23,85,58,2,0 days 09:23:00,1,541,165,Tip,Quality goal
-248,91,85,58,2,0 days 10:47:00,1,536,171,Wrist,Quality goal
-249,32,123,58,3,0 days 17:37:00,1,147,242,Slap,Non quality goal
-250,30,123,58,3,0 days 19:14:00,1,141,147,Snap,Quality goal
-251,58,22,59,1,0 days 17:14:00,1,34,177,Wrist,Non quality goal
-252,58,22,59,2,0 days 04:07:00,1,64,133,Default,Quality goal
-253,50,22,59,2,0 days 11:01:00,1,67,122,Default,Quality goal
-254,58,22,59,3,0 days 15:39:00,1,66,131,Default,Quality goal
-255,163,155,60,1,0 days 13:09:00,1,291,243,Wrist,Non quality goal
-256,30,155,60,2,0 days 09:10:00,1,44,171,Wrist,Non quality goal
-257,157,155,60,2,0 days 12:33:00,1,62,158,Wrist,Quality goal
-258,32,155,60,2,0 days 14:46:00,1,185,255,Slap,Non quality goal
-259,44,28,60,2,0 days 19:47:00,1,529,138,Wrist,Quality goal
-260,39,28,60,3,0 days 15:41:00,1,563,171,Wrist,Non quality goal
-261,168,155,60,3,0 days 18:37:00,1,356,257,Wrist,Non quality goal
-262,75,41,61,1,0 days 01:05:00,1,516,132,Tip,Quality goal
-263,75,41,61,1,0 days 12:26:00,1,491,144,Wrist,Quality goal
-264,101,41,61,2,0 days 03:56:00,1,535,196,Backhand,Non quality goal
-265,100,41,61,2,0 days 05:27:00,1,435,174,Wrist,Non quality goal
-266,75,41,61,3,0 days 00:56:00,1,537,106,Wrist,Non quality goal
-267,72,41,61,3,0 days 05:29:00,1,531,151,Tip,Quality goal
-268,42,64,61,3,0 days 08:40:00,1,57,157,Tip,Quality goal
-269,38,64,61,3,0 days 19:12:00,1,201,99,Wrist,Non quality goal
-270,32,59,62,2,0 days 03:13:00,1,496,187,Slap,Quality goal
-271,98,59,62,3,0 days 18:12:00,1,507,154,Snap,Quality goal
-272,115,64,63,1,0 days 00:04:14,1,514,135,Default,Quality goal
-273,89,123,63,1,0 days 00:09:44,1,81,201,Default,Quality goal
-274,100,123,63,2,0 days 00:11:10,1,80,168,Default,Quality goal
-275,100,123,63,3,0 days 00:07:21,1,64,133,Default,Quality goal
-276,73,123,63,3,0 days 00:17:55,1,165,184,Default,Non quality goal
-277,13,28,64,1,0 days 00:15:19,1,43,118,Default,Non quality goal
-278,15,28,64,1,0 days 00:18:42,1,107,155,Default,Quality goal
-279,12,28,64,2,0 days 00:06:23,1,46,98,Default,Non quality goal
-280,138,6,64,3,0 days 00:03:43,1,533,141,Default,Quality goal
-281,138,6,64,3,0 days 00:11:30,1,429,95,Default,Non quality goal
-282,31,6,64,3,0 days 00:16:51,1,561,176,Default,Non quality goal
-283,7,28,64,3,0 days 00:18:40,1,195,68,Default,Non quality goal
-284,13,59,65,1,0 days 03:05:00,1,45,161,Wrist,Quality goal
-285,53,6,65,1,0 days 15:20:00,1,510,92,Wrist,Quality goal
-286,89,28,66,1,0 days 07:11:00,1,500,177,Default,Quality goal
-287,30,64,66,1,0 days 13:42:00,1,93,209,Wrist,Quality goal
-288,68,28,66,2,0 days 06:11:00,1,547,252,Snap,Non quality goal
-289,76,28,67,1,0 days 09:43:00,1,450,78,Wrist,Non quality goal
-290,81,64,67,1,0 days 19:41:00,1,105,162,Wrist,Quality goal
-291,75,28,67,2,0 days 00:40:00,1,385,27,Wrist,Non quality goal
-292,83,64,67,2,0 days 19:34:00,1,190,210,Wrist,Non quality goal
-293,75,28,67,4,0 days 00:13:00,1,483,106,Wrist,Quality goal
-294,14,155,68,2,0 days 06:13:00,1,554,195,Default,Non quality goal
-295,36,6,68,2,0 days 16:49:00,1,54,165,Default,Quality goal
-296,49,155,68,3,0 days 16:51:00,1,537,198,Default,Non quality goal
-297,13,59,69,1,0 days 00:01:30,1,546,149,Backhand,Quality goal
-298,58,6,69,1,0 days 00:07:43,1,45,129,Backhand,Quality goal
-299,16,59,69,1,0 days 00:19:01,1,553,147,Backhand,Quality goal
-300,13,59,69,1,0 days 01:30:00,1,546,149,Backhand,Quality goal
-301,58,6,69,1,0 days 07:43:00,1,45,129,Backhand,Quality goal
-302,16,59,69,1,0 days 19:01:00,1,553,147,Backhand,Quality goal
-303,57,6,69,3,0 days 00:11:14,1,44,161,Snap,Quality goal
-304,57,6,69,3,0 days 11:14:00,1,44,161,Snap,Quality goal
-305,23,19,70,2,0 days 00:18:50,1,63,156,Backhand,Quality goal
-306,23,19,70,2,0 days 18:50:00,1,63,156,Backhand,Quality goal
-307,15,22,70,3,0 days 00:01:42,1,471,87,Wrist,Quality goal
-308,1,22,70,3,0 days 00:19:57,1,547,160,Default,Quality goal
-309,15,22,70,3,0 days 01:42:00,1,471,87,Wrist,Quality goal
-310,1,22,70,3,0 days 19:57:00,1,547,160,Default,Quality goal
-311,141,155,71,1,0 days 00:05:12,1,38,197,Default,Non quality goal
-312,61,155,71,1,0 days 00:14:24,1,105,55,Default,Non quality goal
-313,35,59,71,2,0 days 00:07:24,1,59,178,Default,Quality goal
-314,44,59,71,2,0 days 00:09:16,1,79,149,Default,Quality goal
-315,45,59,71,2,0 days 00:12:20,1,45,112,Default,Non quality goal
-316,37,59,71,2,0 days 00:15:57,1,49,176,Default,Quality goal
-317,63,155,71,3,0 days 00:19:01,1,524,106,Default,Quality goal
-318,100,59,72,1,0 days 00:01:05,1,77,125,Default,Quality goal
-319,57,64,72,1,0 days 00:09:38,1,557,129,Default,Non quality goal
-320,75,59,72,1,0 days 00:10:48,1,56,125,Default,Quality goal
-321,63,64,72,2,0 days 00:06:26,1,548,161,Default,Quality goal
-322,100,59,72,3,0 days 00:14:17,1,47,125,Default,Non quality goal
-323,125,59,72,3,0 days 00:16:51,1,292,146,Default,Non quality goal
-324,126,59,72,3,0 days 00:17:36,1,77,134,Default,Quality goal
-325,87,22,73,1,0 days 00:02:44,1,114,153,Wrist,Quality goal
-326,44,22,73,1,0 days 00:10:09,1,163,69,Wrist,Non quality goal
-327,104,154,73,1,0 days 00:13:51,1,549,134,Wrist,Quality goal
-328,87,22,73,2,0 days 00:03:47,1,168,229,Slap,Non quality goal
-329,35,22,73,2,0 days 00:08:56,1,105,126,Wrist,Quality goal
-330,25,154,73,3,0 days 00:02:21,1,555,138,Wrist,Quality goal
-331,42,22,73,3,0 days 00:09:01,1,46,122,Wrist,Non quality goal
+,shooter_id,goalie_id,game_id,period,,is_goal,x_location,y_location,type,quality
+0,44,64,2,1,10:43,1,456,63,Wrist,Non quality goal
+1,34,64,2,3,02:53,1,486,68,Default,Non quality goal
+2,149,64,2,3,04:57,1,550,136,Default,Quality goal
+3,45,64,2,3,07:42,1,544,159,Default,Quality goal
+4,61,28,3,2,16:24,1,115,232,Slap,Non quality goal
+5,26,59,3,2,17:45,1,507,111,Wrist,Quality goal
+6,88,28,3,3,05:18,1,441,243,Wrist,Non quality goal
+7,32,59,3,3,14:23,1,66,103,Wrist,Non quality goal
+8,80,59,3,4,01:04,1,491,113,Wrist,Quality goal
+9,21,6,4,1,03:58,1,518,189,Default,Quality goal
+10,103,6,4,1,07:54,1,503,165,Default,Quality goal
+11,17,22,4,2,07:59,1,108,159,Default,Quality goal
+12,25,6,4,2,08:54,1,466,135,Default,Quality goal
+13,12,22,4,3,17:20,1,163,141,Default,Non quality goal
+14,42,64,5,1,03:58,1,53,171,Default,Quality goal
+15,100,41,5,2,00:38,1,535,154,Default,Quality goal
+16,101,41,5,2,04:57,1,520,139,Default,Quality goal
+17,34,64,5,2,17:28,1,153,162,Default,Non quality goal
+18,73,41,5,3,06:34,1,535,176,Default,Quality goal
+19,25,28,6,1,17:21,1,42,171,Backhand,Non quality goal
+20,25,28,6,3,01:47,1,212,151,Default,Non quality goal
+21,25,28,6,3,17:13,1,396,102,Wrist,Non quality goal
+22,21,64,8,1,18:00,1,54,155,Wrist,Quality goal
+23,75,22,8,2,03:43,1,514,163,Default,Quality goal
+24,21,64,8,2,11:11,1,58,141,Wrist,Quality goal
+25,20,64,8,3,08:43,1,62,159,Snap,Quality goal
+26,36,85,9,1,06:08,1,475,205,Default,Quality goal
+27,31,155,9,1,08:14,1,115,190,Default,Quality goal
+28,44,85,9,3,00:26,1,203,39,Wrist,Non quality goal
+29,29,155,9,3,04:58,1,440,154,Default,Non quality goal
+30,31,155,9,3,06:03,1,529,183,Backhand,Quality goal
+31,31,155,9,3,18:53,1,213,21,Default,Non quality goal
+32,88,64,10,1,09:29,1,538,153,Default,Quality goal
+33,57,64,10,1,10:17,1,550,188,Default,Non quality goal
+34,63,64,10,1,19:44,1,506,216,Default,Quality goal
+35,100,59,10,2,01:38,1,59,159,Default,Quality goal
+36,142,70,10,2,05:40,1,525,189,Default,Quality goal
+37,57,70,10,3,11:34,1,543,191,Default,Non quality goal
+38,83,6,11,2,00:33,1,170,67,Wrist,Non quality goal
+39,32,6,11,2,01:02,1,88,148,Wrist,Quality goal
+40,9,28,11,2,04:15,1,526,143,Wrist,Quality goal
+41,1,28,11,2,05:46,1,541,148,Backhand,Quality goal
+42,110,28,11,4,02:17,1,549,120,Default,Non quality goal
+43,24,155,12,1,07:14,1,205,238,Wrist,Non quality goal
+44,23,155,12,1,11:22,1,111,139,Wrist,Quality goal
+45,34,123,12,2,14:23,1,552,166,Default,Quality goal
+46,36,123,12,3,10:49,1,551,147,Default,Quality goal
+47,86,123,12,4,04:01,1,485,190,Wrist,Quality goal
+48,156,41,13,1,16:50,1,81,133,Default,Quality goal
+49,159,41,13,1,17:07,1,212,145,Default,Non quality goal
+50,87,28,13,2,08:14,1,390,131,Default,Non quality goal
+51,36,28,13,3,00:11,1,466,66,Default,Non quality goal
+52,31,41,13,3,13:46,1,81,140,Backhand,Quality goal
+53,89,19,14,1,09:00,1,64,134,Default,Quality goal
+54,8,64,14,2,12:38,1,522,186,Default,Quality goal
+55,12,64,14,2,18:38,1,467,185,Default,Quality goal
+56,89,19,14,3,07:45,1,55,148,Default,Quality goal
+57,8,64,14,3,18:10,1,527,195,Default,Quality goal
+58,56,22,15,1,03:41,1,93,218,Snap,Quality goal
+59,49,22,15,1,10:55,1,51,162,Wrist,Quality goal
+60,78,59,15,2,03:21,1,431,53,Snap,Non quality goal
+61,25,59,15,2,11:20,1,554,100,Snap,Non quality goal
+62,78,59,15,4,01:57,1,506,250,Snap,Non quality goal
+63,35,19,16,1,17:12,1,421,91,Default,Non quality goal
+64,36,19,16,2,00:26,1,459,153,Default,Quality goal
+65,35,19,16,2,02:04,1,494,153,Default,Quality goal
+66,8,155,16,3,01:12,1,83,166,Default,Quality goal
+67,35,6,16,3,17:07,1,346,168,Default,Non quality goal
+68,81,64,17,1,11:21,1,75,134,Wrist,Quality goal
+69,71,28,17,2,03:01,1,533,107,Wrist,Quality goal
+70,31,64,17,2,08:20,1,67,154,Snap,Quality goal
+71,66,28,17,3,02:32,1,446,144,Default,Non quality goal
+72,100,28,17,3,18:36,1,542,153,Tip,Quality goal
+73,31,64,17,3,19:42,1,58,149,Wrist,Quality goal
+74,53,70,18,1,05:00,1,27,241,Snap,Non quality goal
+75,69,59,18,1,11:08,1,465,191,Snap,Quality goal
+76,58,70,18,1,12:00,1,104,173,Snap,Quality goal
+77,49,70,18,3,19:17,1,584,94,Snap,Non quality goal
+78,15,48,19,1,08:38,1,478,121,Snap,Quality goal
+79,16,48,19,1,17:37,1,555,123,Snap,Non quality goal
+80,54,6,19,2,15:34,1,45,136,Default,Quality goal
+81,49,6,19,3,03:46,1,63,145,Wrist,Quality goal
+82,17,59,19,3,19:08,1,553,182,Backhand,Non quality goal
+83,32,22,20,1,04:12,1,443,225,Wrist,Non quality goal
+84,115,85,20,2,11:51,1,51,150,Wrist,Quality goal
+85,161,22,20,3,13:54,1,540,147,Default,Quality goal
+86,100,155,21,2,16:31,1,54,128,Default,Quality goal
+87,100,155,21,3,13:16,1,33,169,Default,Non quality goal
+88,32,59,22,1,13:37,1,38,178,Wrist,Non quality goal
+89,61,28,22,3,06:10,1,503,195,Snap,Quality goal
+90,98,59,22,4,03:30,1,68,157,Wrist,Quality goal
+91,7,123,23,1,05:35,1,202,242,Default,Non quality goal
+92,105,19,23,1,13:07,1,87,131,Default,Quality goal
+93,15,123,23,1,14:27,1,513,157,Default,Quality goal
+94,25,19,23,2,19:22,1,506,98,Default,Quality goal
+95,20,19,23,3,19:07,1,532,176,Default,Quality goal
+96,13,123,23,4,00:52,1,473,111,Default,Quality goal
+97,117,41,24,1,15:47,1,416,174,Default,Non quality goal
+98,44,22,24,3,00:23,1,53,123,Default,Quality goal
+99,100,22,25,1,19:06,1,48,141,Default,Quality goal
+100,76,22,25,3,11:24,1,56,160,Default,Quality goal
+101,100,22,25,3,11:40,1,59,129,Default,Quality goal
+102,62,155,26,1,07:37,1,201,81,Snap,Non quality goal
+103,49,155,26,3,02:20,1,66,175,Snap,Quality goal
+104,56,155,26,3,09:13,1,182,141,Snap,Non quality goal
+105,42,59,26,3,14:54,1,491,201,Snap,Quality goal
+106,35,59,26,3,15:38,1,553,113,Wrist,Non quality goal
+107,34,59,26,3,16:33,1,521,159,Snap,Quality goal
+108,34,59,26,4,02:12,1,489,225,Snap,Quality goal
+109,83,6,27,1,15:59,1,501,182,Default,Quality goal
+110,18,85,27,3,04:12,1,125,153,Default,Quality goal
+111,32,6,27,4,02:36,1,507,165,Default,Quality goal
+112,51,123,28,1,05:29,1,459,194,Wrist,Quality goal
+113,114,59,28,2,02:35,1,43,165,Backhand,Quality goal
+114,79,59,28,3,03:35,1,213,279,Slap,Non quality goal
+115,75,19,29,1,14:13,1,476,177,Default,Quality goal
+116,100,19,29,2,11:49,1,512,168,Default,Quality goal
+117,16,64,29,3,06:04,1,111,128,Default,Quality goal
+118,68,19,29,3,07:28,1,447,165,Default,Non quality goal
+119,1,64,29,3,08:25,1,83,191,Default,Quality goal
+120,100,19,29,3,17:32,1,523,181,Default,Quality goal
+121,9,64,29,3,18:32,1,177,224,Default,Non quality goal
+122,65,28,30,3,05:11,1,66,165,Default,Quality goal
+123,89,28,30,3,15:21,1,119,174,Default,Quality goal
+124,125,28,30,3,15:53,1,227,142,Default,Non quality goal
+125,103,59,31,1,18:33,1,543,174,Wrist,Quality goal
+126,53,22,31,2,10:04,1,45,173,Snap,Non quality goal
+127,25,59,31,2,19:41,1,529,183,Snap,Quality goal
+128,86,6,32,1,14:59,1,526,158,Default,Quality goal
+129,12,155,32,3,18:56,1,179,211,Default,Non quality goal
+130,34,6,32,4,02:28,1,490,115,Default,Quality goal
+131,26,123,33,1,03:41,1,52,154,Tip,Quality goal
+132,20,85,33,1,17:42,1,537,154,Backhand,Quality goal
+133,8,59,34,1,07:35,1,160,96,Default,Non quality goal
+134,88,6,34,1,16:35,1,554,143,Default,Quality goal
+135,78,59,34,2,00:45,1,200,234,Default,Non quality goal
+136,13,59,34,3,13:49,1,99,198,Default,Quality goal
+137,34,28,35,1,02:43,1,99,207,Wrist,Quality goal
+138,34,28,35,1,18:47,1,88,147,Wrist,Quality goal
+139,32,41,35,2,16:04,1,483,245,Wrist,Non quality goal
+140,98,41,35,3,08:29,1,494,108,Wrist,Quality goal
+141,73,155,36,3,12:34,1,85,126,Default,Quality goal
+142,44,64,36,3,19:52,1,543,159,Default,Quality goal
+143,161,59,37,1,09:12,1,93,114,Default,Quality goal
+144,141,28,37,1,10:45,1,543,153,Backhand,Quality goal
+145,26,59,37,2,18:12,1,54,147,Backhand,Quality goal
+146,80,59,37,3,02:10,1,114,153,Default,Quality goal
+147,63,28,37,3,04:32,1,560,127,Backhand,Non quality goal
+148,26,59,37,3,08:30,1,94,157,Tip,Quality goal
+149,88,28,37,3,13:33,1,547,195,Wrist,Non quality goal
+150,26,59,37,3,15:25,1,99,91,Wrist,Quality goal
+151,98,59,37,3,16:44,1,143,87,Wrist,Quality goal
+152,17,22,38,2,08:39,1,60,154,Backhand,Quality goal
+153,109,22,38,3,19:52,1,396,196,Wrist,Non quality goal
+154,56,41,39,1,02:30,1,48,134,Snap,Quality goal
+155,137,41,39,2,10:12,1,88,178,Snap,Quality goal
+156,33,59,39,2,10:50,1,521,168,Snap,Quality goal
+157,87,59,39,3,09:28,1,491,165,Snap,Quality goal
+158,57,41,39,3,15:54,1,51,129,Backhand,Quality goal
+159,49,41,39,3,19:56,1,385,153,Snap,Non quality goal
+160,76,22,40,1,05:45,1,505,144,Default,Quality goal
+161,11,64,40,1,07:37,1,100,75,Backhand,Quality goal
+162,68,22,40,2,02:01,1,166,155,Slap,Non quality goal
+163,90,64,40,2,11:32,1,394,218,Wrist,Non quality goal
+164,75,22,40,3,15:00,1,544,176,Snap,Quality goal
+165,11,64,40,3,19:38,1,188,193,Slap,Non quality goal
+166,75,22,40,4,03:46,1,130,62,Slap,Non quality goal
+167,100,59,41,1,12:53,1,534,148,Snap,Quality goal
+168,69,59,41,2,02:46,1,504,171,Snap,Quality goal
+169,89,59,41,2,04:43,1,553,145,Snap,Quality goal
+170,126,48,41,2,05:14,1,477,146,Snap,Quality goal
+171,57,64,41,2,11:16,1,38,165,Backhand,Non quality goal
+172,50,64,41,3,05:49,1,76,149,Backhand,Quality goal
+173,66,48,41,3,18:27,1,412,257,Default,Non quality goal
+174,168,6,42,2,04:50,1,57,105,Wrist,Non quality goal
+175,13,85,42,2,14:55,1,470,117,Wrist,Quality goal
+176,83,6,42,3,02:29,1,196,61,Wrist,Non quality goal
+177,23,155,43,2,01:33,1,535,166,Wrist,Quality goal
+178,114,155,43,2,03:55,1,476,195,Wrist,Quality goal
+179,114,48,44,1,07:23,1,52,176,Wrist,Quality goal
+180,104,48,44,1,11:22,1,66,184,Wrist,Quality goal
+181,61,123,44,1,12:41,1,495,154,Wrist,Quality goal
+182,88,123,44,1,15:26,1,503,176,Wrist,Quality goal
+183,88,123,44,2,00:52,1,524,137,Wrist,Quality goal
+184,104,48,44,3,08:51,1,136,125,Wrist,Quality goal
+185,74,6,45,1,03:25,1,80,147,Default,Quality goal
+186,100,6,45,1,17:37,1,103,209,Default,Quality goal
+187,66,6,45,2,16:34,1,181,181,Default,Non quality goal
+188,10,64,45,3,14:25,1,399,135,Default,Non quality goal
+189,27,155,46,1,05:30,1,493,135,Default,Quality goal
+190,81,155,46,1,11:03,1,515,171,Default,Quality goal
+191,156,155,46,1,15:37,1,524,104,Default,Quality goal
+192,36,28,46,1,16:49,1,61,180,Default,Quality goal
+193,42,28,46,2,14:28,1,95,123,Default,Quality goal
+194,31,155,46,3,04:23,1,524,186,Default,Quality goal
+195,36,28,46,3,08:06,1,67,169,Default,Quality goal
+196,72,85,47,3,03:47,1,162,51,Default,Non quality goal
+197,73,85,47,3,18:54,1,98,136,Default,Quality goal
+198,1,41,48,1,03:57,1,29,235,Default,Non quality goal
+199,37,19,48,2,16:21,1,549,187,Default,Non quality goal
+200,87,19,48,2,18:28,1,387,275,Default,Non quality goal
+201,18,41,48,3,05:22,1,98,169,Default,Quality goal
+202,1,41,48,4,01:48,1,51,142,Default,Quality goal
+203,58,28,49,1,19:23,1,522,199,Default,Quality goal
+204,63,28,49,2,13:15,1,471,104,Default,Quality goal
+205,32,59,49,3,11:10,1,179,232,Default,Non quality goal
+206,62,28,49,3,13:24,1,393,190,Wrist,Non quality goal
+207,168,59,49,3,17:02,1,84,133,Backhand,Quality goal
+208,57,28,49,3,18:55,1,513,181,Default,Quality goal
+209,20,6,50,1,18:12,1,79,177,Wrist,Quality goal
+210,115,6,50,2,06:43,1,49,131,Wrist,Quality goal
+211,25,6,50,3,14:43,1,113,281,Slap,Non quality goal
+212,21,6,50,3,17:57,1,466,127,Wrist,Quality goal
+213,115,155,51,1,08:32,1,107,177,Snap,Quality goal
+214,25,155,51,1,09:35,1,205,75,Wrist,Non quality goal
+215,102,155,51,2,09:13,1,62,156,Tip,Quality goal
+216,42,123,51,2,18:20,1,529,142,Tip,Quality goal
+217,115,155,51,3,08:49,1,75,105,Wrist,Quality goal
+218,20,155,51,3,09:05,1,80,148,Wrist,Quality goal
+219,167,70,52,1,11:21,1,489,109,Default,Quality goal
+220,67,19,52,3,02:14,1,141,167,Default,Quality goal
+221,100,19,52,3,07:05,1,114,143,Default,Quality goal
+222,63,41,53,1,17:31,1,531,95,Default,Non quality goal
+223,58,41,53,3,17:23,1,508,157,Default,Quality goal
+224,100,59,54,2,08:56,1,462,159,Snap,Quality goal
+225,100,59,54,2,12:07,1,533,177,Snap,Quality goal
+226,63,64,54,2,19:55,1,90,137,Snap,Quality goal
+227,61,64,54,3,00:38,1,43,133,Snap,Quality goal
+228,58,64,54,3,08:24,1,54,131,Tip,Quality goal
+229,63,64,54,3,14:58,1,79,106,Snap,Quality goal
+230,75,59,54,3,16:21,1,579,53,Snap,Non quality goal
+231,63,64,54,3,18:32,1,216,143,Snap,Non quality goal
+232,84,22,55,1,02:36,1,526,158,Wrist,Quality goal
+233,98,22,55,1,05:53,1,535,163,Wrist,Quality goal
+234,90,85,55,2,05:40,1,222,186,Wrist,Non quality goal
+235,24,85,55,2,06:04,1,135,212,Wrist,Quality goal
+236,35,6,56,2,02:12,1,61,151,Tip,Quality goal
+237,37,6,56,2,05:29,1,58,175,Tip,Quality goal
+238,15,155,56,2,06:27,1,549,100,Wrist,Non quality goal
+239,35,6,56,3,07:14,1,49,172,Tip,Quality goal
+240,18,155,56,3,10:15,1,490,128,Wrist,Quality goal
+241,2,64,57,2,14:28,1,142,132,Default,Quality goal
+242,78,64,57,2,17:45,1,150,249,Default,Non quality goal
+243,67,6,57,3,09:03,1,513,216,Default,Non quality goal
+244,30,123,58,1,07:22,1,57,134,Wrist,Quality goal
+245,31,123,58,1,17:52,1,92,182,Wrist,Quality goal
+246,25,85,58,2,04:59,1,465,46,Slap,Non quality goal
+247,23,85,58,2,09:23,1,541,165,Tip,Quality goal
+248,91,85,58,2,10:47,1,536,171,Wrist,Quality goal
+249,32,123,58,3,17:37,1,147,242,Slap,Non quality goal
+250,30,123,58,3,19:14,1,141,147,Snap,Quality goal
+251,58,22,59,1,17:14,1,34,177,Wrist,Non quality goal
+252,58,22,59,2,04:07,1,64,133,Default,Quality goal
+253,50,22,59,2,11:01,1,67,122,Default,Quality goal
+254,58,22,59,3,15:39,1,66,131,Default,Quality goal
+255,163,155,60,1,13:09,1,291,243,Wrist,Non quality goal
+256,30,155,60,2,09:10,1,44,171,Wrist,Non quality goal
+257,157,155,60,2,12:33,1,62,158,Wrist,Quality goal
+258,32,155,60,2,14:46,1,185,255,Slap,Non quality goal
+259,44,28,60,2,19:47,1,529,138,Wrist,Quality goal
+260,39,28,60,3,15:41,1,563,171,Wrist,Non quality goal
+261,168,155,60,3,18:37,1,356,257,Wrist,Non quality goal
+262,75,41,61,1,01:05,1,516,132,Tip,Quality goal
+263,75,41,61,1,12:26,1,491,144,Wrist,Quality goal
+264,101,41,61,2,03:56,1,535,196,Backhand,Non quality goal
+265,100,41,61,2,05:27,1,435,174,Wrist,Non quality goal
+266,75,41,61,3,00:56,1,537,106,Wrist,Non quality goal
+267,72,41,61,3,05:29,1,531,151,Tip,Quality goal
+268,42,64,61,3,08:40,1,57,157,Tip,Quality goal
+269,38,64,61,3,19:12,1,201,99,Wrist,Non quality goal
+270,32,59,62,2,03:13,1,496,187,Slap,Quality goal
+271,98,59,62,3,18:12,1,507,154,Snap,Quality goal
+272,115,64,63,1,04:14,1,514,135,Default,Quality goal
+273,89,123,63,1,09:44,1,81,201,Default,Quality goal
+274,100,123,63,2,11:10,1,80,168,Default,Quality goal
+275,100,123,63,3,07:21,1,64,133,Default,Quality goal
+276,73,123,63,3,17:55,1,165,184,Default,Non quality goal
+277,13,28,64,1,15:19,1,43,118,Default,Non quality goal
+278,15,28,64,1,18:42,1,107,155,Default,Quality goal
+279,12,28,64,2,06:23,1,46,98,Default,Non quality goal
+280,138,6,64,3,03:43,1,533,141,Default,Quality goal
+281,138,6,64,3,11:30,1,429,95,Default,Non quality goal
+282,31,6,64,3,16:51,1,561,176,Default,Non quality goal
+283,7,28,64,3,18:40,1,195,68,Default,Non quality goal
+284,13,59,65,1,03:05,1,45,161,Wrist,Quality goal
+285,53,6,65,1,15:20,1,510,92,Wrist,Quality goal
+286,89,28,66,1,07:11,1,500,177,Default,Quality goal
+287,30,64,66,1,13:42,1,93,209,Wrist,Quality goal
+288,68,28,66,2,06:11,1,547,252,Snap,Non quality goal
+289,76,28,67,1,09:43,1,450,78,Wrist,Non quality goal
+290,81,64,67,1,19:41,1,105,162,Wrist,Quality goal
+291,75,28,67,2,00:40,1,385,27,Wrist,Non quality goal
+292,83,64,67,2,19:34,1,190,210,Wrist,Non quality goal
+293,75,28,67,4,00:13,1,483,106,Wrist,Quality goal
+294,14,155,68,2,06:13,1,554,195,Default,Non quality goal
+295,36,6,68,2,16:49,1,54,165,Default,Quality goal
+296,49,155,68,3,16:51,1,537,198,Default,Non quality goal
+297,13,59,69,1,01:30,1,546,149,Backhand,Quality goal
+298,58,6,69,1,07:43,1,45,129,Backhand,Quality goal
+299,16,59,69,1,19:01,1,553,147,Backhand,Quality goal
+300,13,59,69,1,01:30,1,546,149,Backhand,Quality goal
+301,58,6,69,1,07:43,1,45,129,Backhand,Quality goal
+302,16,59,69,1,19:01,1,553,147,Backhand,Quality goal
+303,57,6,69,3,11:14,1,44,161,Snap,Quality goal
+304,57,6,69,3,11:14,1,44,161,Snap,Quality goal
+305,23,19,70,2,18:50,1,63,156,Backhand,Quality goal
+306,23,19,70,2,18:50,1,63,156,Backhand,Quality goal
+307,15,22,70,3,01:42,1,471,87,Wrist,Quality goal
+308,1,22,70,3,19:57,1,547,160,Default,Quality goal
+309,15,22,70,3,01:42,1,471,87,Wrist,Quality goal
+310,1,22,70,3,19:57,1,547,160,Default,Quality goal
+311,141,155,71,1,05:12,1,38,197,Default,Non quality goal
+312,61,155,71,1,14:24,1,105,55,Default,Non quality goal
+313,35,59,71,2,07:24,1,59,178,Default,Quality goal
+314,44,59,71,2,09:16,1,79,149,Default,Quality goal
+315,45,59,71,2,12:20,1,45,112,Default,Non quality goal
+316,37,59,71,2,15:57,1,49,176,Default,Quality goal
+317,63,155,71,3,19:01,1,524,106,Default,Quality goal
+318,100,59,72,1,01:05,1,77,125,Default,Quality goal
+319,57,64,72,1,09:38,1,557,129,Default,Non quality goal
+320,75,59,72,1,10:48,1,56,125,Default,Quality goal
+321,63,64,72,2,06:26,1,548,161,Default,Quality goal
+322,100,59,72,3,14:17,1,47,125,Default,Non quality goal
+323,125,59,72,3,16:51,1,292,146,Default,Non quality goal
+324,126,59,72,3,17:36,1,77,134,Default,Quality goal
+325,87,22,73,1,02:44,1,114,153,Wrist,Quality goal
+326,44,22,73,1,10:09,1,163,69,Wrist,Non quality goal
+327,104,154,73,1,13:51,1,549,134,Wrist,Quality goal
+328,87,22,73,2,03:47,1,168,229,Slap,Non quality goal
+329,35,22,73,2,08:56,1,105,126,Wrist,Quality goal
+330,25,154,73,3,02:21,1,555,138,Wrist,Quality goal
+331,42,22,73,3,09:01,1,46,122,Wrist,Non quality goal
