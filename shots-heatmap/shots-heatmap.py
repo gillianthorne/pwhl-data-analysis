@@ -70,9 +70,10 @@ graph_nongoals.imshow(map_image,
 axes[2].set_title(f"All Non-Goals: {len(pd_nongoals)} data points")
 
 
-plt.savefig(fname="shots-heatmap/shots-heatmap.png")
-# i like how it looks with tight_layout, and then show it!
+# i like how it looks with tight_layout, so save it and then show it!
 plt.tight_layout()
+plt.savefig(fname="shots-heatmap/shots-heatmap.png")
+
 plt.show()
 
 
