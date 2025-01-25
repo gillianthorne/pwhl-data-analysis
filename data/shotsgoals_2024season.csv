@@ -1,4 +1,4 @@
-,shooter_id,goalie_id,game_id,period,,is_goal,x_location,y_location,type,quality
+,shooter_id,goalie_id,game_id,period,time,is_goal,x_location,y_location,type,quality
 0,44,64,2,1,10:43,1,456,63,Wrist,Non quality goal
 1,34,64,2,3,02:53,1,486,68,Default,Non quality goal
 2,149,64,2,3,04:57,1,550,136,Default,Quality goal

@@ -1,4 +1,4 @@
-,shooter_id,goalie_id,game_id,period,,is_goal,x_location,y_location,type,quality
+,shooter_id,goalie_id,game_id,period,time,is_goal,x_location,y_location,type,quality
 0,44,64,2,1,01:29,0,448,63,Default,Non quality on net
 1,36,64,2,1,03:30,0,549,182,Default,Non quality on net
 2,46,64,2,1,03:36,0,387,225,Default,Non quality on net
