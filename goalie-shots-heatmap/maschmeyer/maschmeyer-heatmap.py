@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import numpy as np
 
+# the goals map isn't fantastic because in this data, she only let in 54 goals. 
+# i'll revisit at the end of the season so there should be more data. i feel like it'll be more accurate at around 100 goals. 
+
 # basically just to have all shots mirrored on one side
 # this isn't perfect bc some shots might be taken from across center ice, especially empty net goals
 # but also the threshold will probably weed them out lmao
@@ -23,6 +26,7 @@ df_saves = df_saves[df_saves["goalie_id"] == 59]
 
 df_goals = pd.read_csv("data/shotsgoals_2024season.csv", index_col=0)
 df_goals = df_goals[df_goals["goalie_id"] == 59]
+print(len(df_goals))
 
 # do the math!
 df_shots["x_location"] = df_shots.loc[:, "x_location"].map(lambda x: do_math(x))
@@ -35,6 +39,11 @@ map_image = mpimg.imread("extra-resources/images/ht-ice-rink-2.png")
 fig, axes = plt.subplots(nrows=1, ncols=3, figsize=(10, 3))
 
 fig.suptitle("Emerance Maschmeyer Shots, Saves and Goals")
+
+# remove ticks and labels
+for i in range(3):
+    axes[i].set_xticks([],[])
+    axes[i].set_yticks([],[])
 
 # graph it!
 shots_graph = sns.kdeplot(ax=axes[0], data=df_shots, x="x_location", y="y_location", fill=True, cmap="rainbow", alpha=0.8, thresh=0.07)
