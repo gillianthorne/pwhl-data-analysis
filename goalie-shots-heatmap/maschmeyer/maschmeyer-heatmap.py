@@ -59,5 +59,5 @@ goals_graph.imshow(map_image, aspect="equal", zorder=-1)
 axes[2].set_title("Goals Allowed")
 
 plt.tight_layout()
-plt.savefig("images/maschhmeyer-heatmap.png")
+plt.savefig("images/maschmeyer-heatmap.png")
 plt.show()
