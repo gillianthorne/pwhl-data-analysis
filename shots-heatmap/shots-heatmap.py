@@ -2,6 +2,7 @@ import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
+import datetime
 
 # basically just to have all shots mirrored on one side
 # this isn't perfect bc some shots might be taken from across center ice, especially empty net goals
@@ -72,7 +73,7 @@ axes[2].set_title(f"All Non-Goals: {len(pd_nongoals)} data points")
 
 # i like how it looks with tight_layout, so save it and then show it!
 plt.tight_layout()
-plt.savefig(fname="shots-heatmap/shots-heatmap.png")
+plt.savefig(f"images/shots-{round(datetime.datetime.today().timestamp())}.png")
 
 plt.show()
 

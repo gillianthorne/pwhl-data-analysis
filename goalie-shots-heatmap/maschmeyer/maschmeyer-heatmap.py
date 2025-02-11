@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import numpy as np
+import datetime
 
 # the goals map isn't fantastic because in this data, she only let in 54 goals. 
 # i'll revisit at the end of the season so there should be more data. i feel like it'll be more accurate at around 100 goals. 
@@ -59,5 +60,5 @@ goals_graph.imshow(map_image, aspect="equal", zorder=-1)
 axes[2].set_title("Goals Allowed")
 
 plt.tight_layout()
-plt.savefig("images/maschmeyer-heatmap.png")
+plt.savefig(f"images/maschmeyer-shots-{round(datetime.datetime.today().timestamp())}.png")
 plt.show()
