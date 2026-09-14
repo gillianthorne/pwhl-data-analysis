@@ -1,0 +1,10 @@
+"id","name","nickname","abbreviation","logo","division_id","first_season_id"
+"-1","Placeholder","Placeholder","NA",NULL,"0",NULL
+"1","Boston Fleet","Fleet","BOS",,"1","2"
+"2","Minnesota Frost","Frost","MIN",,"1","2"
+"3","Montreal Victoire","Victoire","MTL",,"1","2"
+"4","New York Sirens","Sirens","NY",,"1","2"
+"5","Ottawa Charge","Charge","OTT",,"1","2"
+"6","Toronto Sceptres","Sceptres","TOR",,"1","2"
+"8","Seattle Torrent","Torrent","SEA",NULL,"1","7"
+"9","Vancouver Goldeneyes","Goldeneyes","VAN",NULL,"1","7"
